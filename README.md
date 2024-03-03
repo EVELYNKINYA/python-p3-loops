@@ -59,7 +59,7 @@ while i < 5:
 
 ## Looping with `for`
 
-JavaScript has a `for` loop, which is commonly used to run some condition a set
+JavaScript has a  `for` loop, which is commonly used to run some condition a set
 number of times:
 
 ```js
